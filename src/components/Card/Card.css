@@ -1,0 +1,13 @@
+.productItem{
+    margin-bottom: 2%;
+    padding: 2%;
+    border:
+            2px       /* width */
+            solid     /* style */
+            var(--border-color);  /* color */
+    border-radius: 10px;
+}
+.imageProduct{
+    height: 200px;
+    width: 350px;
+}
